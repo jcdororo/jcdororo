@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 Tech
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcdororo&layout=compact)](https://github.com/Stendhalsynd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcdororo&layout=compact)](https://github.com/Stendhalsynd) <br/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/></a>
