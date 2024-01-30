@@ -9,10 +9,6 @@
 ### 🧑‍💻 Tech
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcdororo&layout=compact)](https://github.com/Stendhalsynd)
-
-### 🏅 Algorithm
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnwlcks123)](https://solved.ac/wnwlcks123)
-
 <a href="" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/></a>
@@ -23,6 +19,10 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/RPA-00B0D8.svg?&style=for-the-badge&logo=probot&logoColor=white"/></a>
+### 🏅 Algorithm
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnwlcks123)](https://solved.ac/wnwlcks123)
+
+
 
 <!--
 **jcdororo/jcdororo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
