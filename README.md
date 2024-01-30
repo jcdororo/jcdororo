@@ -1,6 +1,11 @@
 # 소통하는 개발자 지찬 입니다. 안녕하세요 ! 👋
 <a href="https://velog.io/@wnwlcks123/posts">⭐Blog<a/>
 
+
+### 🪪 github
+[![Jichan's github stats](https://github-readme-stats.vercel.app/api?username=jcdororo&show_icons=true&hide_border=true&theme=noctis_minimus)](https://github.com/jcdororo)
+
+
 ### 🧑‍💻 Tech
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcdororo&layout=compact)](https://github.com/Stendhalsynd)
