@@ -1,5 +1,4 @@
 # 소통하는 개발자 지찬 입니다. 안녕하세요 ! 👋
-<a href="https://velog.io/@wnwlcks123/posts">⭐Blog<a/>
 
 
 ### 🪪 github
@@ -39,7 +38,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Blog
+# ⭐Blog
 [📔 Velog](https://velog.io/@wnwlcks123/posts)
 
 
