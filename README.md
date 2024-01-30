@@ -1,4 +1,13 @@
 ### Hi there 👋
+<a href="https://velog.io/@wnwlcks123/posts">⭐Blog<a/>
+
+### 🧑‍💻 Tech
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcdororo&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnwlcks123)](https://solved.ac/wnwlcks123)
+
+
 
 <!--
 **jcdororo/jcdororo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
