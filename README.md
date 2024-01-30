@@ -38,3 +38,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Blog
+[📔 Velog](https://velog.io/@wnwlcks123/posts)
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wnwlcks123)](https://velog.io/@wnwlcks123)
