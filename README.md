@@ -1,4 +1,4 @@
-# 소통하는 개발자 지찬 입니다. 안녕하세요 ! 👋
+# Hello I'm Jichan ! 👋
 
 
 ### 🪪 github
